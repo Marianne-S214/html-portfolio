@@ -1,4 +1,18 @@
 * {
-background-color: #C8CFA0
+    background-color: #f1f1f1;
+    text-align: center;
+    
 }
 
+html {
+    color: #c7b7a3;
+}
+
+h1{
+    background-color: #eadbc8;
+    color:#b5c18e;
+}
+
+ a {
+    color: #b5c18e;
+ }
